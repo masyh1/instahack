@@ -1,4 +1,4 @@
-# instahack
+instahack
 
 pkg install git
 git clone and then paste this link
